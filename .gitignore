@@ -1,0 +1,13 @@
+cscope.*
+.classpath
+.project
+.svn
+target/
+.idea
+*.iml
+*.ipr
+*.iws
+.settings/
+out/
+.DS_Store
+*.jar
