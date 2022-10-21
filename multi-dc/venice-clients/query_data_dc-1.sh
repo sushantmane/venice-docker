@@ -1,7 +1,7 @@
 #!/bin/bash
 
 key=$1
-storeName=test-store2
+storeName=test-store
 router=http://venice-router.dc-1.venicedb.io:7777
 
 jar=bin/venice-thin-client-all.jar

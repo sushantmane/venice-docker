@@ -4,7 +4,7 @@
 url=http://venice-controller.dc-parent.venicedb.io:5555
 clusterName=venice-cluster0
 
-storeName=test-store2
+storeName=test-store
 keySchema=sample-data/schema/keySchema.avsc
 valueSchema=sample-data/schema/valueSchema.avsc
 
