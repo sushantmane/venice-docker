@@ -1,0 +1,1 @@
+key=$1 && echo -e "### [DC-0] ###" && bash query_data_dc-0.sh $key && echo -e "\n\n### [DC-1] ###" && bash query_data_dc-1.sh $key
