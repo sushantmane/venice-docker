@@ -1,1 +1,0 @@
-java -jar bin/avro-tools-1.11.1.jar tojson sample-data/batch-push-data/kv_records.avro 

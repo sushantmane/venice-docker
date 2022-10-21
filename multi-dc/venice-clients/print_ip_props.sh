@@ -1,1 +1,0 @@
-cat sample-data/configs/inc-push-job.properties
